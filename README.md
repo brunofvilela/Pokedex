@@ -8,8 +8,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta é uma lista completa de todos os Pokémon de todas as 9 gerações da série Pokémon, juntamente com suas principais estatísticas
+Esta é uma lista de Pokémon, juntamente com suas principais estatísticas e habilidades.
 
-## 🔖 Curso Formação de Dev Syonet 2024 
+## 🔖 Curso DEV Syonet - 2024 
 
-Professor Cassio Fiuza
+Professor: Cassio Fiuza
